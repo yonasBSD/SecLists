@@ -730,7 +730,7 @@ tests/cli/app-template/src/components/component-category/component-two.json
 tests/cli/app-template/src/constants.js
 tests/cli/app-template/README.md
 tests/cli/README.md
-.yarn/releases/yarn-4.3.1.cjs
+.yarn/releases/yarn-4.5.0.cjs
 packages/utils/typescript/jest.config.js
 packages/utils/typescript/lib/index.js
 packages/utils/typescript/lib/compile.js
@@ -1186,6 +1186,7 @@ packages/cli/create-strapi-app/tsconfig.build.json
 packages/cli/create-strapi-app/src/index.ts
 packages/cli/create-strapi-app/src/cloud.ts
 packages/cli/create-strapi-app/src/utils/engines.ts
+packages/cli/create-strapi-app/src/utils/get-package-manager-args.ts
 packages/cli/create-strapi-app/src/utils/dot-env.ts
 packages/cli/create-strapi-app/src/utils/parse-to-chalk.ts
 packages/cli/create-strapi-app/src/utils/check-install-path.ts
@@ -1990,9 +1991,12 @@ packages/core/upload/.gitattributes
 packages/core/upload/.eslintignore
 packages/core/upload/package.json
 packages/core/upload/packup.config.ts
-packages/core/upload/admin/tests/utils.jsx
-packages/core/upload/admin/tests/handlers.js
-packages/core/upload/admin/tests/setup.js
+packages/core/upload/admin/.eslintrc
+packages/core/upload/admin/tsconfig.json
+packages/core/upload/admin/tests/handlers.ts
+packages/core/upload/admin/tests/utils.ts
+packages/core/upload/admin/tests/setup.ts
+packages/core/upload/admin/tsconfig.build.json
 packages/core/upload/admin/src/pluginId.js
 packages/core/upload/admin/src/index.js
 packages/core/upload/admin/src/hooks/useUpload.js
@@ -2285,7 +2289,6 @@ packages/core/upload/admin/src/pages/SettingsPage/init.js
 packages/core/upload/admin/src/pages/SettingsPage/reducer.js
 packages/core/upload/admin/src/constants.js
 packages/core/upload/.npmignore
-packages/core/upload/jsconfig.json
 packages/core/upload/jest.config.front.js
 packages/core/upload/README.md
 packages/core/strapi/jest.config.js
@@ -3708,6 +3711,9 @@ packages/core/content-manager/server/src/history/routes/index.ts
 packages/core/content-manager/server/src/history/routes/history-version.ts
 packages/core/content-manager/server/src/register.ts
 packages/core/content-manager/server/src/index.ts
+packages/core/content-manager/server/src/preview/index.ts
+packages/core/content-manager/server/src/preview/LICENSE
+packages/core/content-manager/server/src/preview/constants.ts
 packages/core/content-manager/server/src/services/metrics.ts
 packages/core/content-manager/server/src/services/permission.ts
 packages/core/content-manager/server/src/services/document-manager.ts
@@ -3832,6 +3838,9 @@ packages/core/content-manager/admin/src/hooks/useDragAndDrop.ts
 packages/core/content-manager/admin/src/hooks/useLazyComponents.ts
 packages/core/content-manager/admin/src/hooks/useDocumentLayout.ts
 packages/core/content-manager/admin/src/hooks/useContentManagerInitData.ts
+packages/core/content-manager/admin/src/preview/index.ts
+packages/core/content-manager/admin/src/preview/LICENSE
+packages/core/content-manager/admin/src/preview/constants.ts
 packages/core/content-manager/admin/src/translations/pt.json
 packages/core/content-manager/admin/src/translations/sk.json
 packages/core/content-manager/admin/src/translations/ru.json

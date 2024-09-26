@@ -2143,6 +2143,7 @@ tests/UI/campaigns/modules/psgdpr/02_configuration/03_consentCheckboxCustomizati
 tests/UI/campaigns/modules/psgdpr/02_configuration/04_customerActivityTracking.ts
 tests/UI/campaigns/modules/psgdpr/02_configuration/08_personalDataManagerForGuest.ts
 tests/UI/campaigns/modules/ps_cashondelivery/01_installation/04_resetModule.ts
+tests/UI/campaigns/modules/ps_cashondelivery/01_installation/01_upgradeModule.ts
 tests/UI/campaigns/modules/ps_cashondelivery/02_configuration/01_placeOrderWithIt.ts
 tests/UI/campaigns/modules/ps_categoryproducts/01_installation/01_disableEnableModule.ts
 tests/UI/campaigns/modules/ps_themecusto/01_installation/05_disableEnableModule.ts
@@ -2154,6 +2155,7 @@ tests/UI/campaigns/modules/blockwishlist/03_frontOffice/01_lists/03_shareList.ts
 tests/UI/campaigns/modules/blockwishlist/03_frontOffice/02_products/01_addProductToList.ts
 tests/UI/campaigns/modules/blockwishlist/02_configuration/02_statisticsTabSettings.ts
 tests/UI/campaigns/modules/blockwishlist/02_configuration/04_helpHeaderButtons.ts
+tests/UI/campaigns/modules/ps_emailalerts/01_installation/05_disableEnableModule.ts
 tests/UI/campaigns/modules/ps_emailalerts/01_installation/03_uninstallAndDeleteModule.ts
 tests/UI/campaigns/modules/ps_emailalerts/01_installation/01_uninstallAndInstallModule.ts
 tests/UI/campaigns/modules/ps_emailalerts/02_configuration/02_merchantNotifications/01_enableDisableNewOrder.ts
@@ -2393,9 +2395,10 @@ tests/UI/campaigns/functional/FO/hummingbird/10_cart/02_cart/04_displayModalProd
 tests/UI/campaigns/functional/FO/hummingbird/10_cart/02_cart/03_addPromoCode.ts
 tests/UI/campaigns/functional/FO/hummingbird/10_cart/02_cart/02_deleteProduct.ts
 tests/UI/campaigns/functional/FO/hummingbird/10_cart/02_cart/01_changeQuantity.ts
+tests/UI/campaigns/functional/BO/08_design/03_emailTheme/04_viewRawHtmlAndText.ts
 tests/UI/campaigns/functional/BO/08_design/03_emailTheme/01_previewEmailThemes.ts
 tests/UI/campaigns/functional/BO/08_design/03_emailTheme/02_selectDefaultEmailTheme.ts
-tests/UI/campaigns/functional/BO/08_design/03_emailTheme/03_viewRawHtmlAndText.ts
+tests/UI/campaigns/functional/BO/08_design/03_emailTheme/03_backToConfigurationLink.ts
 tests/UI/campaigns/functional/BO/08_design/05_positions/03_searchHook.ts
 tests/UI/campaigns/functional/BO/08_design/05_positions/02_filterModule.ts
 tests/UI/campaigns/functional/BO/08_design/05_positions/05_unhookModuleInListByBulkActions.ts
@@ -2563,9 +2566,10 @@ tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/03_product
 tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/03_productsStock/05_allowOrderingOutOfStock.ts
 tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/04_pagination/01_updateNumberOfProductsPerPage.ts
 tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/04_pagination/02_updateDefaultProductsOrder.ts
-tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/02_productPage/03_separatorOfAttributeAnchor.ts
-tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/02_productPage/04_displayDiscountedPrice.ts
+tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/02_productPage/06_displayNotifications.ts
+tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/02_productPage/05_displayDiscountedPrice.ts
 tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/02_productPage/01_displayAvailableQuantities.ts
+tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/02_productPage/04_separatorOfAttributeAnchor.ts
 tests/UI/campaigns/functional/BO/13_shopParameters/03_productSettings/02_productPage/02_displayAddToCartButton.ts
 tests/UI/campaigns/functional/BO/11_international/01_localization/02_languages/04_sortAndPagination.ts
 tests/UI/campaigns/functional/BO/11_international/01_localization/02_languages/01_filterAndQuickEditLanguages.ts
@@ -2982,7 +2986,6 @@ tests/UI/pages/BO/design/linkWidgets/index.ts
 tests/UI/pages/BO/design/linkWidgets/add.ts
 tests/UI/pages/BO/design/imageSettings/index.ts
 tests/UI/pages/BO/design/imageSettings/add.ts
-tests/UI/pages/BO/design/emailThemes/index.ts
 tests/UI/pages/BO/design/emailThemes/preview.ts
 tests/UI/pages/BO/design/pages/index.ts
 tests/UI/pages/BO/design/pages/add.ts
@@ -3034,7 +3037,6 @@ tests/UI/pages/BO/shopParameters/orderSettings/index.ts
 tests/UI/pages/BO/shopParameters/orderSettings/statuses/index.ts
 tests/UI/pages/BO/shopParameters/orderSettings/statuses/returnStatus/add.ts
 tests/UI/pages/BO/shopParameters/orderSettings/statuses/add.ts
-tests/UI/pages/BO/shopParameters/general/maintenance/index.ts
 tests/UI/pages/BO/shopParameters/customerSettings/titles/index.ts
 tests/UI/pages/BO/shopParameters/customerSettings/titles/add.ts
 tests/UI/pages/BO/shopParameters/customerSettings/options.ts
@@ -3042,7 +3044,6 @@ tests/UI/pages/BO/shopParameters/trafficAndSeo/searchEngines/index.ts
 tests/UI/pages/BO/shopParameters/trafficAndSeo/searchEngines/add.ts
 tests/UI/pages/BO/shopParameters/trafficAndSeo/seoAndUrls/index.ts
 tests/UI/pages/BO/shopParameters/trafficAndSeo/seoAndUrls/add.ts
-tests/UI/pages/BO/shopParameters/productSettings/index.ts
 tests/UI/pages/BO/shopParameters/search/tags/index.ts
 tests/UI/pages/BO/shopParameters/search/tags/add.ts
 tests/UI/pages/BO/catalog/features/index.ts
@@ -3061,7 +3062,6 @@ tests/UI/pages/BO/catalog/products/add/optionsTab.ts
 tests/UI/pages/BO/catalog/products/add/detailsTab.ts
 tests/UI/pages/BO/catalog/products/add/combinationsTab.ts
 tests/UI/pages/BO/catalog/products/add/packTab.ts
-tests/UI/pages/BO/catalog/products/add/virtualProductTab.ts
 tests/UI/pages/BO/catalog/products/add/pricingTab.ts
 tests/UI/pages/BO/catalog/suppliers/index.ts
 tests/UI/pages/BO/catalog/suppliers/view.ts
@@ -3982,6 +3982,7 @@ src/PrestaShopBundle/Entity/Employee/AuthorizationRole.php
 src/PrestaShopBundle/Entity/Employee/EmployeeSession.php
 src/PrestaShopBundle/Entity/Employee/Employee.php
 src/PrestaShopBundle/Entity/Employee/Profile.php
+src/PrestaShopBundle/Command/GenerateAPIDocCommand.php
 src/PrestaShopBundle/Command/LegacyLinkLinterCommand.php
 src/PrestaShopBundle/Command/ModuleCommand.php
 src/PrestaShopBundle/Command/UpdateLicensesCommand.php
