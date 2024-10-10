@@ -2137,7 +2137,6 @@ tests/UI/commonTests/BO/international/currency.ts
 tests/UI/commonTests/BO/international/ecoTax.ts
 tests/UI/commonTests/BO/customerService/merchandiseReturns.ts
 tests/UI/commonTests/BO/orders/shoppingCarts.ts
-tests/UI/commonTests/BO/loginBO.ts
 tests/UI/commonTests/BO/customers/address.ts
 tests/UI/commonTests/BO/customers/customer.ts
 tests/UI/commonTests/BO/shopParameters/b2b.ts
@@ -2173,6 +2172,7 @@ tests/UI/campaigns/modules/ps_themecusto/01_installation/02_uninstallAndInstallM
 tests/UI/campaigns/modules/ps_themecusto/01_installation/04_resetModule.ts
 tests/UI/campaigns/modules/ps_themecusto/01_installation/03_uninstallAndDeleteModule.ts
 tests/UI/campaigns/modules/ps_themecusto/02_configuration/02_advancedCustomizationTab.ts
+tests/UI/campaigns/modules/blockwishlist/01_installation/04_resetModule.ts
 tests/UI/campaigns/modules/blockwishlist/01_installation/05_uninstallAndDeleteModule.ts
 tests/UI/campaigns/modules/blockwishlist/03_frontOffice/01_lists/03_shareList.ts
 tests/UI/campaigns/modules/blockwishlist/03_frontOffice/02_products/01_addProductToList.ts
@@ -2996,7 +2996,6 @@ tests/UI/pages/BO/advancedParameters/team/roles/add.ts
 tests/UI/pages/BO/advancedParameters/team/employeeBasePage.ts
 tests/UI/pages/BO/advancedParameters/team/permissions/index.ts
 tests/UI/pages/BO/advancedParameters/team/add.ts
-tests/UI/pages/BO/advancedParameters/email/index.ts
 tests/UI/pages/BO/modules/moduleConfiguration/index.ts
 tests/UI/pages/BO/modules/contactForm/index.ts
 tests/UI/pages/BO/modules/productComments/index.ts
@@ -3043,7 +3042,6 @@ tests/UI/pages/BO/orders/invoices/index.ts
 tests/UI/pages/BO/orders/shoppingCarts/view.ts
 tests/UI/pages/BO/orders/add.ts
 tests/UI/pages/BO/orders/creditSlips/index.ts
-tests/UI/pages/BO/quickAccess/index.ts
 tests/UI/pages/BO/quickAccess/add.ts
 tests/UI/pages/BO/searchResults/index.ts
 tests/UI/pages/BO/customers/view.ts
