@@ -377,8 +377,10 @@ tests/_support/Page/Acceptance/EmailsPage.php
 tests/_support/Page/Acceptance/ContactPage.php
 tests/_support/Page/Acceptance/SegmentsPage.php
 tests/_support/Page/Acceptance/CampaignPage.php
-tests/_support/Step/Acceptance/Campaign.php
+tests/_support/Step/Acceptance/EmailStep.php
 tests/_support/Step/Acceptance/ContactStep.php
+tests/_support/Step/Acceptance/SegmentStep.php
+tests/_support/Step/Acceptance/CampaignStep.php
 tests/_support/UnitTester.php
 tests/unit.suite.yml
 tests/_data/.gitkeep
@@ -997,6 +999,7 @@ app/bundles/UserBundle/Controller/Api/RoleApiController.php
 app/bundles/UserBundle/Controller/Api/UserApiController.php
 app/bundles/UserBundle/Config/config.php
 app/bundles/UserBundle/Config/services.php
+app/bundles/UserBundle/Resources/views/Helper/accent.html.twig
 app/bundles/UserBundle/Resources/views/Helper/theme.html.twig
 app/bundles/UserBundle/Resources/views/Security/resetconfirm.html.twig
 app/bundles/UserBundle/Resources/views/Security/base.html.twig
@@ -2486,6 +2489,7 @@ app/bundles/CoreBundle/Resources/views/Helper/list_toolbar.html.twig
 app/bundles/CoreBundle/Resources/views/Helper/recentactivity.html.twig
 app/bundles/CoreBundle/Resources/views/Helper/search.html.twig
 app/bundles/CoreBundle/Resources/views/Helper/modal.html.twig
+app/bundles/CoreBundle/Resources/views/Helper/toggletip.html.twig
 app/bundles/CoreBundle/Resources/views/Variant/row.html.twig
 app/bundles/CoreBundle/Resources/views/Variant/index.html.twig
 app/bundles/CoreBundle/Resources/views/Notification/flash_messages.html.twig
@@ -5014,6 +5018,7 @@ app/bundles/ApiBundle/Tests/EventListener/ConfigSubscriberTest.php
 app/bundles/ApiBundle/Tests/EventListener/ApiSubscriberTest.php
 app/bundles/ApiBundle/Tests/Controller/CommonApiControllerTest.php
 app/bundles/ApiBundle/Tests/Functional/Oauth2Test.php
+app/bundles/ApiBundle/Tests/Functional/Controller/ClientControllerTest.php
 app/bundles/AssetBundle/Entity/Asset.php
 app/bundles/AssetBundle/Entity/Download.php
 app/bundles/AssetBundle/Entity/DownloadRepository.php

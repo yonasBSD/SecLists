@@ -581,6 +581,7 @@ themes/demo/seeds/data/blog/post.json
 themes/demo/seeds/data/blog/category.json
 themes/demo/seeds/data/pages/article.json
 themes/demo/seeds/data/pages/about.json
+themes/demo/seeds/data/site/menus.json
 themes/demo/seeds/data.yaml
 themes/demo/partials/about/contact-form.htm
 themes/demo/partials/calcresult.htm
@@ -619,6 +620,7 @@ themes/demo/partials/site/head/head-meta.htm
 themes/demo/partials/site/flash-messages.htm
 themes/demo/partials/site/how-its-made.htm
 themes/demo/partials/site/nav-mobile.htm
+themes/demo/partials/site/nav-footer.htm
 themes/demo/pages/ajax.htm
 themes/demo/pages/about.htm
 themes/demo/pages/sitemap.htm

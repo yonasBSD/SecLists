@@ -2272,6 +2272,7 @@ es-es.www.cloudflare.com
 es-es/feedback
 es-es/lp
 es-es/searchresults
+es-la.www.cloudflare.com
 es-la/feedback
 es-la/lp
 es-la/searchresults
@@ -2769,8 +2770,8 @@ hotelfinder/rpc
 hotels/rpc
 hp/video
 hpc/*/supported-applications.aspx?
-http://i2.wp.com/robots.txt
-http://imdb.com/robots.txt
+http://archive.org/robots.txt
+http://ec.europa.eu/robots.txt
 hub?category=
 hz/contact-us/ajax/initiate-trusted-contact
 hz/help/contact/*/message/$
@@ -2781,6 +2782,9 @@ i/u
 ia
 icons
 id-id.www.cloudflare.com
+id-id/feedback
+id-id/lp
+id-id/searchresults
 idea-ads-tool
 idea-pin-builder
 idea-pin-invite
@@ -3485,6 +3489,9 @@ nl*/people/*/favorites
 nl*/shop/*/favoriters
 nl*/shop/*/sold
 nl-nl.www.cloudflare.com
+nl-nl/feedback
+nl-nl/lp
+nl-nl/searchresults
 nl/*?order=
 nl/*color=
 nl/*customizable=
@@ -4211,7 +4218,7 @@ shopping/seller
 shopping/suppliers/search
 shopping?
 shopstream
-showtimes/location/*http://patreon.com/robots.txt
+showtimes/location/*http://ted.com/robots.txt
 sidewiki/entry
 signature
 signin/inject
@@ -4609,6 +4616,9 @@ support/forum/search?
 surprise
 suspension-appeal
 sv-se.www.cloudflare.com
+sv-se/feedback
+sv-se/lp
+sv-se/searchresults
 svc
 svc/crosswords
 svc/games
@@ -4659,6 +4669,9 @@ test
 testpage-forhomepage
 tetro
 th-th.www.cloudflare.com
+th-th/feedback
+th-th/lp
+th-th/searchresults
 thanksgiving-spotlight
 thanx?
 themacallan/worlds-together
@@ -4686,6 +4699,9 @@ toyota/coming-soon
 toyota/fueled-by-skepticism
 tr
 tr-tr.www.cloudflare.com
+tr-tr/feedback
+tr-tr/lp
+tr-tr/searchresults
 transaction_platform/start_order
 transactions
 transconsole/portal
@@ -4899,6 +4915,9 @@ v3/pidgets/log
 v4
 verify_age
 vi-vn.www.cloudflare.com
+vi-vn/feedback
+vi-vn/lp
+vi-vn/searchresults
 video/embedded
 videos/week
 viewer
@@ -5416,6 +5435,9 @@ zh-cn/feedback
 zh-cn/lp
 zh-cn/searchresults
 zh-hans-cn.www.cloudflare.com
+zh-hans-cn/feedback
+zh-hans-cn/lp
+zh-hans-cn/searchresults
 zh-tw.www.cloudflare.com
 zh-tw/feedback
 zh-tw/lp
