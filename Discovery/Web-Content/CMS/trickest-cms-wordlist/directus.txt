@@ -404,6 +404,7 @@ api/src/database/helpers/geometry/dialects/redshift.ts
 api/src/database/helpers/geometry/dialects/postgres.ts
 api/src/database/helpers/geometry/dialects/oracle.ts
 api/src/database/helpers/geometry/dialects/sqlite.ts
+api/src/database/run-ast/modules/fetch-permitted-ast-root-fields.ts
 api/src/database/run-ast/lib/get-db-query.ts
 api/src/database/run-ast/lib/parse-current-level.ts
 api/src/database/run-ast/utils/apply-parent-filters.ts
@@ -3382,6 +3383,7 @@ contributing.md
 .changeset/loud-avocados-serve.md
 .changeset/new-bees-impress.md
 .changeset/config.json
+.changeset/sixty-days-argue.md
 .changeset/rare-coins-taste.md
 .changeset/cold-cheetahs-double.md
 .changeset/silent-trainers-learn.md

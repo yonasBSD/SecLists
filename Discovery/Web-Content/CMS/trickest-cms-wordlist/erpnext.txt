@@ -2027,6 +2027,7 @@ erpnext/accounts/doctype/account/chart_of_accounts/verified/ar_chart_of_accounts
 erpnext/accounts/doctype/account/chart_of_accounts/verified/nl_grootboekschema.json
 erpnext/accounts/doctype/account/chart_of_accounts/verified/de_kontenplan_SKR03.json
 erpnext/accounts/doctype/account/chart_of_accounts/verified/in_standard_chart_of_accounts.json
+erpnext/accounts/doctype/account/chart_of_accounts/verified/fr_plan_comptable_associatif_avec_code.json
 erpnext/accounts/doctype/account/chart_of_accounts/verified/hu_chart_of_accounts_for_microenterprises_with_account_number.json
 erpnext/accounts/doctype/account/account.py
 erpnext/accounts/doctype/account/README.md
@@ -3685,6 +3686,7 @@ erpnext/patches/v14_0/update_currency_exchange_settings_for_frankfurter.py
 erpnext/patches/v14_0/update_entry_type_for_journal_entry.py
 erpnext/patches/v14_0/migrate_cost_center_allocations.py
 erpnext/patches/v15_0/create_asset_depreciation_schedules_from_assets.py
+erpnext/patches/v15_0/update_task_assignee_email_field_in_asset_maintenance_log.py
 erpnext/patches/v15_0/update_gpa_and_ndb_for_assdeprsch.py
 erpnext/patches/v15_0/update_sre_from_voucher_details.py
 erpnext/patches/v15_0/add_disassembly_order_stock_entry_type.py
