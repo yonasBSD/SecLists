@@ -167,6 +167,7 @@ apps/comments-ui/src/components/IFrame.tsx
 apps/comments-ui/src/components/Frame.tsx
 apps/comments-ui/src/components/PopupBox.tsx
 apps/comments-ui/src/components/popups/AddDetailsPopup.tsx
+apps/comments-ui/src/components/popups/DeletePopup.tsx
 apps/comments-ui/src/components/popups/CloseButton.tsx
 apps/comments-ui/src/components/popups/GenericPopup.tsx
 apps/comments-ui/src/components/popups/CTAPopup.tsx
@@ -204,6 +205,7 @@ apps/comments-ui/src/utils/api.test.ts
 apps/comments-ui/src/utils/adminApi.ts
 apps/comments-ui/src/utils/helpers.test.ts
 apps/comments-ui/src/utils/constants.ts
+apps/comments-ui/src/utils/adminAPI.test.ts
 apps/comments-ui/src/utils/editor.ts
 apps/comments-ui/test/utils/fixtures.ts
 apps/comments-ui/test/utils/e2e.ts
