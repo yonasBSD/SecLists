@@ -1076,6 +1076,7 @@ a
 ab_tests
 about
 about$
+about-pro
 about/careers/applications
 about/careers/applications-a
 about/careers/applications-a/benefits
@@ -2674,8 +2675,8 @@ hotelfinder/rpc
 hotels/rpc
 hp/video
 hpc/*/supported-applications.aspx?
-http://ec.europa.eu/robots.txt
-http://slideshare.net/robots.txt
+http://amzn.to/robots.txt
+http://bit.ly/robots.txt
 hub?category=
 hz/contact-us/ajax/initiate-trusted-contact
 hz/help/contact/*/message/$
@@ -3701,6 +3702,7 @@ print
 private
 pro
 pro-resources
+pro-solutions
 pro/about
 product-reviews/B0069IY63Y
 productPurchaseDone
@@ -4055,7 +4057,7 @@ shopping/seller
 shopping/suppliers/search
 shopping?
 shopstream
-showtimes/location/*http://microsoft.com/robots.txt
+showtimes/location/*http://instagram.com/robots.txt
 sidewiki/entry
 signature
 signin/inject
@@ -5031,7 +5033,7 @@ wiki/Wikipedia_Diskussion:Checkuser
 wiki/Wikipedia_Diskussion:Spam-Blacklist-Log
 wiki/Wikipedia_talk%3AAbuse_reports
 wiki/Wikipedia_talk%3AAbuse_response
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://goo.gl/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://etsy.com/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_recall
 wiki/Wikipedia_talk%3AAdministrator_review
 wiki/Wikipedia_talk%3AAdministrators%27_noticeboard
