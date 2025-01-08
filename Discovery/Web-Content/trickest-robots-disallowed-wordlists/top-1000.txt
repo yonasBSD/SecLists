@@ -15,7 +15,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 %7B%7Burl%7D%7D
 %7B*%7D
 %7C
-%7Cd_
 &
 &*
 &*To66.Asia
@@ -2402,9 +2401,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /Message-Error.htm
 /MyAccount
 /Newsroom/GoogleSitemap
-/Ntk
-/Ntt
-/Ntx
 /RedesignBucket
 /SelectLocale?fromPage=
 /UPGRADE.txt
@@ -3476,7 +3472,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /scheduled-pin
 /scheduled-pins
 /schemes
-/schoollist
 /schrijf-een-review
 /science/ereader
 /science/fabrication
@@ -4607,8 +4602,6 @@ ActiveCalendar/mobile/mobilelist.aspx
 AdRequestEventLogApi
 AddForumUser
 AddListing
-AddToList
-AddToRegistry
 Admin
 Admin/
 Administration/
@@ -4624,9 +4617,7 @@ AirlineTips
 AirportFromGeoAjax
 AirportIP
 Ajax.htm$
-AjaxSearchNavigationView
 AllReviews
-Allons_voter
 AmazonCloudFront/2008-06-30
 AmazonCloudFront/2009-04-02
 AmazonCloudFront/2009-09-09
@@ -4701,7 +4692,6 @@ B2BClickTracking
 BAEmailConfirmation
 BALinkImpressionTracking
 BLImpRecord
-BTWN
 Baldric/static-1.71
 Baldric/static-1.73
 Baldric/static-1.80
@@ -4728,7 +4718,6 @@ COG
 CP
 CR-Dokumentation.pdf$
 Calculator
-CallToActionModalView
 CampaignConfigAjax
 CampaignConfiguration
 CampaignId
@@ -4748,11 +4737,6 @@ CheapFlightsRecord
 CheapFlightsSearchDeals
 CheapFlightsSearchResults
 CheapFlightsSearchSeatGuru
-Checkout
-CheckoutEditItemsDisplayView
-CheckoutOrderBillingView
-CheckoutOrderShippingView
-CheckoutSignInView
 Civ
 Claim
 ClientAuth
@@ -4819,25 +4803,20 @@ DomainSearch$
 DomainSearch/*
 Domains/DomainControlPanel
 DynamicPlacementAjax
-ESPDisplayOptionsViewCmd
-ESPModal
 ESPNPlusAdobeTracking
 EULegal
 EarlyRequesterJS/static-1.38
 ElasticLoadBalancing/2009-05-15
 ElasticLoadBalancing/2010-07-01
-EmailCartView
 EmailHotel
 EmailMap
 EmailMemberRegistration
 EmailSpellCheckJson
 EmbedSlideshow
-EnlargedImageView
 EnterpriseSubscriber/*
 Entrez
 ErrorPage
 EventDates
-ExitCheckoutCmd
 ExitWindow
 ExpandedUserReviews
 ExperiencesCommerce
@@ -4853,11 +4832,8 @@ FatalError.html
 FavoriteReviewManagement
 Feature
 Featured
-FeaturedShowMoreOverlay
 Features/SpinaBifidaProgram/
 Feeds
-FetchProdRefreshContent
-FiatsCmd
 FilterState
 FindRestaurants
 FinishAppInstall
@@ -4882,7 +4858,6 @@ ForumSetSortCookie
 ForumSignIn
 ForumVote
 Fragment/SysConfig
-FreeGiftDisplayView
 FreeTools
 FullRedirect
 GAITripBuilder
@@ -4893,7 +4868,6 @@ GOffer
 GPointCampaign
 GSSAjax
 GeneralSupport
-GenericRegistryPortalView
 GermanwingsPromo
 GermanwingsRegistration
 GetListedAjaxGeneral
@@ -4901,14 +4875,12 @@ GetListedLightbox
 GetListedUpdateAttraction
 GetListedUpdateEatery
 GetMobileApp
-GiftRegistrySearchViewCmd
 GoogleInternetAuthority
 Gpits
 GreenLeaderAjax
 GreenLeadersProxy
 GroupHomeApi
 GroupManagementCenter
-GuestAsAnonymous
 GuestExperience
 GuestXManagementTool
 GuideAjax
@@ -4926,7 +4898,6 @@ HeadJS/static-2.83
 HeadJS/static-2.84
 HeadJS/static-2.92
 Help
-HelpContent
 HelpProxy
 HelpUkraine
 Home-
@@ -5060,7 +5031,6 @@ LocationPhotosSearch
 LocationTab
 LocationWidget
 LogMediaClick
-LogonForm
 MAINTAINERS.txt
 MAPS
 MUST
@@ -5070,10 +5040,8 @@ Mail/
 MailEmergency
 Manage/
 ManageListing
-ManageOrder
 ManageOwnersTopReasonsApi
 ManagePhotos
-ManageReturns
 ManageShopListingApi
 ManageShopping
 ManageStoryboard
@@ -5085,7 +5053,6 @@ Maps
 MarketPerception
 Marketing/EcapSurvey.aspx
 MediaBadgeResponse
-MediaDisplayView
 MediaKit
 MediaVoting
 MeetingsBase/static-1.1538
@@ -5345,13 +5312,11 @@ OAuthRegistration
 OfferAnnouncementManagement
 OnThisDay
 OpenGraphLander
-OpenZoomLayer
 OpeningHours
 OptOutEmail
 OptimusNativePayment
 OrderItemDisplay
 OrderItemDisplay=
-OtherDisplayView
 Out-Of-Date
 OverlayWidgetAjax
 OwnerActivityFeedAjax
@@ -5435,15 +5400,11 @@ PrintGuide
 Private
 ProductCancellationLogApi
 ProductCart
-ProductComparisonCmd
-ProductDetailsTabView
 ProductError
 Production/
 Profile
 Project
 PromoTools
-PromotionDetailsDisplayView
-PromotionDisplayView
 Proxy.ashx
 ProxyToolsAccountSettingsTool
 ProxyToolsBillingAndPaymentsTool
@@ -5497,7 +5458,6 @@ Public/9.0.0
 Public/MAPPINGS/OBSOLETE
 QUICKNEWS
 QueryJson
-QuickInfoView
 QuickReview
 Quickcast
 R
@@ -5549,7 +5509,6 @@ RegistreWeb/search/advanced.htm
 RegistreWeb/search/simple.htm
 RegistreWeb/search/typedoc.htm
 Registry
-RegistryPortalCmd
 RemindMe
 RentalCarsRedirect
 RentalConfirmedClaim
@@ -5557,7 +5516,6 @@ RentalPropertyManager
 RentalWatchSignup
 RentalsSearch
 RentalsSupport
-ReportAbuse
 ReportBug
 ReportIAP
 ReportPost
@@ -5593,7 +5551,6 @@ SD
 SEARCH
 SI
 SNP
-SOImapPriceDisplayView
 SPCommerceInternal
 SPOCK
 SPRedirect
@@ -5608,7 +5565,6 @@ Scripts
 Search
 Search
 Search/Mail/Public
-SearchNavigationView
 SelectLocale?fromPage=
 SelfServeAdvertising
 SendMessage
@@ -5654,7 +5610,6 @@ ShowUserReviews_Cruises_Responsive
 SiftScript
 SingleClickOptOut
 SingleClickSignUp
-SingleShipmentOrderSummaryView
 SingleUserReview
 Sitemaps/
 SmartDealsHomeAjax
@@ -5683,7 +5638,6 @@ Special:ThankAuthors
 Special:UserLogin
 SpecialOfferManagement
 SpecialOfferWebview
-SpecificationDefinitionView
 SponsoredListingAjax
 SponsoredListingCommerce
 SpotlightDemo
@@ -5728,8 +5682,6 @@ TLMCountries
 Tablet
 TaggingAjax
 TagsJSONServlet
-TargetListPortalView
-TargetStoreLocatorCmd
 Taxonomy/CommonTree
 Taxonomy/Selector
 Team
@@ -5833,7 +5785,6 @@ VacationRentalsPromoLander
 VacationRentalsTracking
 VacationRentalsXSiteAjax
 ValidateJson
-VariationSelectionView
 Verify/*
 VerifyReview
 Video/*playerIndex
@@ -5883,10 +5834,7 @@ Widgets-
 WidgetsAjax
 WifiPlus
 WindowsApp
-WriteComments
 WriteReviewShade
-WriteReviews
-XCSA
 Xhr
 Yandex
 ZendeskRedirector
@@ -5899,7 +5847,6 @@ ZipCodeLookupAjax
 [_0-9a-zA-Z]+/status/[0-9]+/likes
 [_0-9a-zA-Z]+/status/[0-9]+/retweets
 [helpCenterIdentifier]
-[path]
 \+*\+
 _
 _
@@ -6446,7 +6393,6 @@ advanced-search-form
 advanced-search/x
 advanced-trade/spot
 advanced/adv-suggestions
-advancedGiftRegistrySearchView
 advanced_blog_search
 advanced_engl.html
 advertise?
@@ -6828,6 +6774,7 @@ ar-ar/search
 ar-ar/searchresults
 ar-eg/
 ar-sa/
+ar-sa/payroll/
 ar/
 ar/Download
 ar/admin
@@ -7392,6 +7339,7 @@ backstage/api/
 bad-boys
 bad-boys-ii
 badges/profile/create
+baidu
 bal/impression
 bal/impression/RecordImpression.htm?
 ban-me-i-am-a-robot
@@ -7923,9 +7871,6 @@ bookshelf
 booksrightsholders
 boutique/sitemaps
 bp
-bp/c
-bp/guest_mfg_brand
-bp/p
 bpage-preview
 br
 br*/blog-article-remove-faq-utms-*.js
@@ -8813,7 +8758,6 @@ cgi-bin/loginpage
 cgi-bin/search.fpl
 cgi-bin/wx
 cgi-binhttp://ifttt.com/robots.txt
-cgi-local
 cgi-mad/
 cgi-pct/
 cgi-registry
@@ -9100,7 +9044,6 @@ co*/cdn-cgi/challenge-platform
 co*/step
 co*/submit
 co*/submitted
-co-
 co/
 co/*?*shpxid=
 co/*digital_wallets/dialog
@@ -9267,7 +9210,6 @@ compagnie
 companies/c
 companies/o
 companies/search
-company
 company/*.rss
 company/add-ons-agreement
 company/contact-thank-you
@@ -9622,7 +9564,6 @@ countrysearch/*/*-importer.html
 countrysearch/*/*/importers/*.html
 coupons
 coupons-blog/page
-coupons.
 coupons/*click
 coupons/*click$
 coupons/autocomplete
@@ -9649,6 +9590,7 @@ cp/api/logger
 cp/api/wpa
 cpds2
 cpresources
+cpro
 cpropub/univercd
 cpspa
 cr$
@@ -9758,7 +9700,6 @@ culture/projects/projects
 culture/staff/staff
 cupid-v1
 curatedsearches
-custom-reviews
 custom/created.html
 custom/search/
 custom_banner
@@ -9858,7 +9799,6 @@ data-studio
 data/*/crosssellaccommodations
 data/1.0/bundle
 data/free/files
-database/philboard.mdb
 datasets/
 date/dateadd.html?
 date/dateadded.html?
@@ -10251,7 +10191,6 @@ digital-single-market/taxonomy
 digital-single-market/users
 digital_wallets/dialog
 digitaledition
-dir_on_server
 direct
 direct/purchase
 directory
@@ -10609,6 +10548,7 @@ e
 e-dition
 e-print
 e/*?
+e=this||self;function
 ear-health-support/balance
 ear-health-support/daily-care
 ear-health-support/default.htm
@@ -10868,6 +10808,7 @@ en-GB/firefox/collections/4757633/$
 en-GB/firefox/collections/mozilla
 en-GB/firefox/collections/mozilla/$
 en-GB/firefox/search
+en-US
 en-US/android/collections
 en-US/android/search
 en-US/deals/*/ssg-suffix
@@ -10911,6 +10852,7 @@ en-jm/
 en-my/
 en-nz/
 en-ph/
+en-sa/payroll/
 en-sg/
 en-sg/books/
 en-tt/
@@ -11735,7 +11677,6 @@ fi/tools/logo-maker/onboarding
 fi/user
 fi/users
 fi/ventureone
-fiats
 ficapp
 ficmanagers
 field_article
@@ -12145,7 +12086,6 @@ galleries/keywords
 galleries/top-
 gallery
 gallery/rg*/mediaviewer/rm*/tr
-gam-
 game
 game/score
 game/summary
@@ -12170,7 +12110,6 @@ gb/node/add
 gb/search
 gb/user
 gb/user$
-gc?k
 gcc
 gclid=
 gcp/300000414/regulatedinformation
@@ -12503,7 +12442,6 @@ gu/firefox/collections/mozilla
 gu/firefox/collections/mozilla/$
 gu/firefox/search
 guest-pass
-guestEmailNotificationView
 guestbook/
 guide
 guidebooks
@@ -12830,6 +12768,7 @@ homeimprovement/EmbeddedProfile.htm
 homeloans/*zga_z_guid=
 homepage
 homepage-video-test
+homepage/
 homepage/2013
 homepage/HomepageVideoMetrics.htm
 homes
@@ -12952,7 +12891,6 @@ http://iubenda.com/robots.txt
 http://last.fm/robots.txt
 http://msdn.microsoft.com/robots.txt
 http://nationalgeographic.com/robots.txt
-http://nerdwallet.com/robots.txt
 http://patents.google.com/robots.txt
 http://producthunt.com/robots.txt
 http://python.org/robots.txt
@@ -13244,7 +13182,6 @@ ig/search
 ig/user
 ig/users
 ignoring/human/orders
-igp
 il
 il-en*/listing/*/favoriters
 il-en*/people/*/circle
@@ -13493,7 +13430,6 @@ index
 index.html
 index.html$
 index.html?
-index.jhtml
 index.new.html
 index.php
 index.php/
@@ -14106,8 +14042,6 @@ journal/ijom
 journal/ijom$
 journal/jemr
 journal/jemr$
-journal/jmms
-journal/jmms$
 journal/jscp
 journal/jscp$
 journal/lights
@@ -14314,7 +14248,6 @@ keep
 kereses
 keyboard_qwerty.html
 keyword
-keyword=
 kg/en/
 kg/ru/
 khan-labs?step=children-over-limit
@@ -14507,7 +14440,6 @@ lecture
 leerberichten
 legal
 legal-b2b
-legal-contact-us
 legal-content/*/TXT/DOC
 legal-content/*/TXT/FMX
 legal-content/*/TXT/SIG
@@ -14582,6 +14514,7 @@ limited-release
 link
 link-intersect
 link-intersect/$
+link?
 link_to
 linked
 linkedin
@@ -14590,7 +14523,6 @@ links
 list
 list-bibliography-delegates
 list-existing-collections
-list.id=1
 list/ls*/_ajax
 list/ls*/export
 listbox
@@ -15299,7 +15231,6 @@ moon/*year=
 more
 more/
 more_samples
-moreinfo.cfm
 morelikethis
 morerecenthistory
 morerecenthistoryajax
@@ -15406,8 +15337,6 @@ multiple-sclerosis/rrms-20/monthly-rms-treatment
 multiproduct
 multisite_files/fastcompany/imagecache
 multivu
-munin
-munin*http://lefigaro.fr/robots.txt
 muse/identity/v2/identity.js
 museumdays/accounts
 music
@@ -16171,7 +16100,6 @@ novel/comments.php?id=
 novels/unlisted
 now/mt3
 now50
-np
 npk
 npln
 npost/
@@ -16515,7 +16443,6 @@ p/all.atom?page=9
 p/blackout-m7
 p/featured.atom
 p/moduleprovider
-p/premium-registry
 p/surveyopen
 p4p*list.html
 pa-IN/android/collections
@@ -16558,8 +16485,6 @@ page/*/?egotecpage
 page/*/?hc_location=
 page/*/?iq_id=
 page/*/?pcd=
-page/*/?s
-page/*/?s=
 page/*/?s=
 page/*/?search=
 page/account-confirmation-thanks
@@ -17063,7 +16988,6 @@ pitch-black
 pixel.png
 pk
 pk/en/assets/document/firmresume.pdf
-pl
 pl*/blog-article-remove-faq-utms-*.js
 pl*/cdn-cgi/challenge-platform
 pl*/listing/*/favoriters
@@ -17234,6 +17158,7 @@ plugin
 plugins
 plugins.
 plugins/?s=
+plugins/search
 plus/check_hold
 plus/check_psn
 plus/invite_request
@@ -17351,7 +17276,6 @@ postings/PostForSale.htm?
 postings/PostMakeMeMoveStreamlined.htm?
 postlogin
 postmail.cms
-posts
 posts/
 posts/flag
 posts/item
@@ -17986,7 +17910,6 @@ q/user/*/verifies
 q=
 qa
 qemail
-qi
 qnasearch?
 qr
 qrCode/*
@@ -18090,7 +18013,6 @@ react/static-6.16
 reactions?
 read
 readcommentshtml
-ready_sit_read/index.jhtml
 real-country
 real-estate-listings
 realmedia
@@ -18106,6 +18028,7 @@ recfb?
 recharge/dashboard/car
 recharge/dashboard/static
 recherche
+recipes/*?q=
 recipes/search
 recommendations
 recommendations/products
@@ -18588,7 +18511,6 @@ review/show
 review/top-reviewers
 reviewFilters
 reviewSeller
-reviewVote
 reviewWidget
 review_feed_auto_fetch
 reviewit
@@ -18822,6 +18744,7 @@ s2t/
 s3
 s=
 s=p
+s?
 s?
 s?*rh=n%3A1380045031
 s_id=
@@ -19474,6 +19397,7 @@ sharing/folders
 shelf/user_shelves
 shenghuo
 shenghuo/search?
+shifen/
 shihui
 shihui?
 ship
@@ -19510,6 +19434,7 @@ shopping/ratings/merchant/immersivedetails
 shopping/reviewer
 shopping/search
 shopping/seller
+shopping/shoppingpage/casa
 shopping/suppliers/search
 shopping?
 shopstream
@@ -19560,7 +19485,6 @@ sign-in
 sign-in-6for6Sale
 sign-out
 sign-out
-sign-up
 sign-up-to-be-contacted-for-research
 sign-up/?
 sign_in
@@ -20106,7 +20030,6 @@ spice
 splash
 splashui
 splashui_rc
-splitOrderItem
 sponsor
 sponsored
 sponsored/2022/10/disruptors-who-are-changing-their-industries
@@ -20269,7 +20192,6 @@ stock-photos/photos/search$
 stock-photos/photos/search?
 stock-ranker
 store
-store-locator/search-results-print
 store/
 store/*/search
 store/*ajax.htm$
@@ -20450,7 +20372,6 @@ summary_view$
 summerbzz
 sun/*?
 sun/*year=
-supertarget/index.jhtml
 supervision/coexistence
 supervision/setup
 support
@@ -20612,6 +20533,7 @@ t/E
 t/privacy
 t/terms
 t31337
+t=!0;typeof
 ta-LK/forums
 ta-LK/kb/*/discuss
 ta-LK/search
@@ -20662,9 +20584,6 @@ talk/user
 talk/user/*/article
 talks2
 tally-loader-react/static-1.65
-target_baby
-target_group
-targetdirect_group
 tariffselect
 tasks
 tasks/
@@ -20699,7 +20618,6 @@ tbl*
 tblang=
 tbproxy
 tdid=*
-tdir/p/kids-back-to-school
 tdv2_fp
 te/android/collections
 te/android/search
@@ -21192,7 +21110,6 @@ track.gif
 track/exposure
 track_order
 trackback
-tracking
 tracking-pixels/static-1.10
 tracking-pixels/static-1.8
 tracky
@@ -21327,7 +21244,6 @@ try-new
 try-search-term
 try?
 trylater
-tsa
 tto
 tucritica
 tune*retpath=
@@ -21589,6 +21505,7 @@ uk/your
 uk/zazzle
 uki/search
 uli/trac
+ulink?
 ulk/i
 ulk/sch
 ulk/usr
@@ -23167,7 +23084,6 @@ windowsforms/
 windowsvista/
 winforms/
 winfx/
-winnt
 wipostad/
 wirecutter
 wirecutter/*&xid=
@@ -23330,6 +23246,8 @@ wp-admin/admin-ajax.php
 wp-admin/admin-ajax.php
 wp-admin/admin-ajax.phphttp://rtbf.be/robots.txt
 wp-admin/admin-ajax.phphttp://starbucks.com/robots.txt
+wp-admin/load-scripts.php
+wp-admin/load-styles.php
 wp-adv
 wp-comments-post.php
 wp-content
@@ -23547,7 +23465,6 @@ youtube/fonts
 youtube/img/promos
 youtube/partner
 youtubei
-yr
 yss_fragment.gne
 yuv
 z
@@ -23891,8 +23808,6 @@ zz-test
 1014943
 3584794
 5787254
-7078046
-7079046
 23219321/iac.
 55875582/walmart-us/catalog
 59666047
