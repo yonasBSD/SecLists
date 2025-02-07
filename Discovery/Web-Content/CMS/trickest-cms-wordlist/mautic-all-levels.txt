@@ -17386,6 +17386,12 @@ LeadBundle/Tests/Command/DeduplicateCommandFunctionalTest.php
 Tests/Command/DeduplicateCommandFunctionalTest.php
 Command/DeduplicateCommandFunctionalTest.php
 DeduplicateCommandFunctionalTest.php
+app/bundles/LeadBundle/Tests/Command/SegmentNumberFilterWithOrsCommandFunctionalTest.php
+bundles/LeadBundle/Tests/Command/SegmentNumberFilterWithOrsCommandFunctionalTest.php
+LeadBundle/Tests/Command/SegmentNumberFilterWithOrsCommandFunctionalTest.php
+Tests/Command/SegmentNumberFilterWithOrsCommandFunctionalTest.php
+Command/SegmentNumberFilterWithOrsCommandFunctionalTest.php
+SegmentNumberFilterWithOrsCommandFunctionalTest.php
 app/bundles/LeadBundle/Tests/Command/SegmentFilterOnUpdateCommandFunctionalTest.php
 bundles/LeadBundle/Tests/Command/SegmentFilterOnUpdateCommandFunctionalTest.php
 LeadBundle/Tests/Command/SegmentFilterOnUpdateCommandFunctionalTest.php
@@ -22312,6 +22318,13 @@ Resources/views/Builder/_field_wrapper.html.twig
 views/Builder/_field_wrapper.html.twig
 Builder/_field_wrapper.html.twig
 _field_wrapper.html.twig
+app/bundles/FormBundle/Resources/views/Builder/_labels.html.twig
+bundles/FormBundle/Resources/views/Builder/_labels.html.twig
+FormBundle/Resources/views/Builder/_labels.html.twig
+Resources/views/Builder/_labels.html.twig
+views/Builder/_labels.html.twig
+Builder/_labels.html.twig
+_labels.html.twig
 app/bundles/FormBundle/Resources/views/Builder/_actions.html.twig
 bundles/FormBundle/Resources/views/Builder/_actions.html.twig
 FormBundle/Resources/views/Builder/_actions.html.twig

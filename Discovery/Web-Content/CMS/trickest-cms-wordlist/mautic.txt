@@ -3009,6 +3009,7 @@ app/bundles/LeadBundle/Tests/Command/DeleteContactSecondaryCompaniesCommandTest.
 app/bundles/LeadBundle/Tests/Command/UpdateLeadListCommandFunctionalTest.php
 app/bundles/LeadBundle/Tests/Command/ImportCommandTest.php
 app/bundles/LeadBundle/Tests/Command/DeduplicateCommandFunctionalTest.php
+app/bundles/LeadBundle/Tests/Command/SegmentNumberFilterWithOrsCommandFunctionalTest.php
 app/bundles/LeadBundle/Tests/Command/SegmentFilterOnUpdateCommandFunctionalTest.php
 app/bundles/LeadBundle/Tests/Twig/DncReasonHelperTest.php
 app/bundles/LeadBundle/Tests/Provider/FormAdjustmentsProviderTest.php
@@ -3827,6 +3828,7 @@ app/bundles/FormBundle/Resources/views/Builder/index.html.twig
 app/bundles/FormBundle/Resources/views/Builder/action.html.twig
 app/bundles/FormBundle/Resources/views/Builder/field.html.twig
 app/bundles/FormBundle/Resources/views/Builder/_field_wrapper.html.twig
+app/bundles/FormBundle/Resources/views/Builder/_labels.html.twig
 app/bundles/FormBundle/Resources/views/Builder/_actions.html.twig
 app/bundles/FormBundle/Resources/views/Builder/form.html.twig
 app/bundles/FormBundle/Resources/views/Builder/_script.html.twig
