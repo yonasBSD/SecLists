@@ -4978,6 +4978,11 @@ admin-x-activitypub/src/hooks/useActivityPubQueries.ts
 src/hooks/useActivityPubQueries.ts
 hooks/useActivityPubQueries.ts
 useActivityPubQueries.ts
+apps/admin-x-activitypub/src/hooks/useAnimatedCounter.tsx
+admin-x-activitypub/src/hooks/useAnimatedCounter.tsx
+src/hooks/useAnimatedCounter.tsx
+hooks/useAnimatedCounter.tsx
+useAnimatedCounter.tsx
 apps/admin-x-activitypub/src/App.tsx
 admin-x-activitypub/src/App.tsx
 src/App.tsx
@@ -20052,6 +20057,9 @@ ghost/mw-session-from-token/lib/session-from-token.js
 mw-session-from-token/lib/session-from-token.js
 lib/session-from-token.js
 session-from-token.js
+ghost/email-analytics-service/README.md
+email-analytics-service/README.md
+README.md
 ghost/email-analytics-service/package.json
 email-analytics-service/package.json
 package.json
