@@ -2464,6 +2464,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /admin-ajax.php
 /admin/
 /ads/
+/adult
 /aeglodetailweb/api/msite/item?productId*
 /affiliate_amazon.cms*
 /affiliates_content*
@@ -5833,6 +5834,7 @@ TravelMapHome
 TravelerInterestNotificationEndpoint
 TravelersChoice?
 TravelersChoiceHome
+TravelersChoicePreview
 TravelersChoiceWidget
 TravellersChoice?
 TripBarometer
@@ -6290,6 +6292,7 @@ according-to-chrisley
 account
 account$
 account-details
+account-link
 account-login
 account-prefs-change
 account-settings
@@ -9329,8 +9332,13 @@ core/services/aop-file-manager/file
 corgi$
 corgi/i18n
 corp
+corp/*.pdf$
 corp/Privacy.htm
 corp/Terms.htm
+corp/get-data
+corp/lps
+corp/solution
+corp/unlock-growth
 corporate
 corporate/contracts
 corporate/languageselection.aspx
@@ -12340,7 +12348,7 @@ http://bbcsfx.acropolis.org.uk/robots.txt
 http://creativecommons.org/robots.txt
 http://economist.com/robots.txt
 http://europa.eu/robots.txt
-http://explore.org/robots.txt
+http://expedia.com/robots.txt
 http://gist.github.com/robots.txt
 http://govostis.gr/robots.txt
 http://healthline.com/robots.txt
@@ -12348,6 +12356,7 @@ http://help.twitter.com/robots.txt
 http://irishtimes.com/robots.txt
 http://iubenda.com/robots.txt
 http://last.fm/robots.txt
+http://lefigaro.fr/robots.txt
 http://msdn.microsoft.com/robots.txt
 http://nationalgeographic.com/robots.txt
 http://nerdwallet.com/robots.txt
@@ -16829,8 +16838,6 @@ quotes/list_rss
 quotes/tag
 r
 r/
-r/*$
-r/*?
 r/Preview
 r/instant/response
 rackspace/elevating-performance
@@ -18300,12 +18307,14 @@ signature/voucher
 signed_out_modal.json
 signin
 signin$
+signin-oidc
 signin/$
 signin/inject
 signin?
 signin?expId=confirmEmail
 signout
 signout
+signout-oidc
 signup
 signup$
 signup-interstitial
@@ -18323,6 +18332,7 @@ signup/payment?
 signup?
 signup?fullscreen=
 signup_modal
+silent-login
 silva
 silver-linings-playbook
 since=
@@ -19723,7 +19733,6 @@ top/navigator
 topGallery
 topic
 topic*?post=
-topic/*$
 topic/*(*
 topic/*/Rss
 topic/*/ampphoto*
@@ -20817,6 +20826,7 @@ video/embedded
 video/embeded
 video/iframe
 video/movies/entity
+video/movies_sitemap_*.xml
 video/mucinex-md
 video/pad
 video/preview
@@ -20835,6 +20845,7 @@ video/touch/preview
 video/touch/search?text=%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE$
 video/touch/search?text=video$
 video/v$
+video/video_sitemap_*.xml
 video/viewconfig$
 video/yabanci-dizi-izle
 video/yerli-dizi-izle
@@ -21018,6 +21029,7 @@ web/offer/em/pdfs_innovators/RU/
 web/offers/pdfs
 web/portal/commerce
 web/portal/software/websphere
+web/solutionsi/
 web/telepresence/pro/
 web_arch
 webapp
