@@ -305,6 +305,8 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?expId=confirmEmail
 ?fbclid=
 ?forumId=
+?from
+?from=profile
 ?gws_rd=ssl$
 ?hidePromoBar=
 ?hl=
@@ -316,8 +318,10 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?items_per_page=
 ?keywords=
 ?lang=
+?list=wall
 ?location=
 ?ls=
+?menu_opened
 ?mv=
 ?null$
 ?offset=
@@ -329,8 +333,11 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?pager.offset=
 ?photoAlbumId=
 ?post=
+?post_add
 ?pt1=true$
 ?radius=
+?reactions_opened
+?reply=
 ?returnPage=
 ?s=
 ?search_forum=
@@ -1579,8 +1586,8 @@ hp/video
 hpc/*/supported-applications.aspx?
 hpm
 hpmob
-http://amazon.co.uk/robots.txt
-http://web.archive.org/robots.txt
+http://amazon.de/robots.txt
+http://support.microsoft.com/robots.txt
 hub?category=
 hz/contact-us/ajax/initiate-trusted-contact
 hz/help/contact/*/message/$
@@ -1794,6 +1801,8 @@ mapabcpoi?
 maphp?
 mapprint?
 maps
+maps/?entry=wc
+maps/_
 maps/about
 maps/adsendpoint
 maps/api/js
@@ -1803,6 +1812,8 @@ maps/api/streetview
 maps/d
 maps/dir
 maps/match
+maps/place
+maps/preview
 maps/reserve
 maps/reserve/api
 maps/reserve/b
@@ -1820,6 +1831,7 @@ maps/reserve/sellersignup
 maps/reserve/settings
 maps/reserve/terms
 maps/search
+maps/vt?
 maps?
 maps?*file=
 maps?*output=classic
@@ -2268,6 +2280,7 @@ search/user?q=
 search/users
 search/video?
 search?
+search?*tbm=map
 search?q$
 search?q=
 search?q=%23
@@ -2296,6 +2309,7 @@ sf/test
 sgtm/g/collect
 sh
 share
+share.php?
 shareArticle
 sharing
 sharing/files
@@ -2332,6 +2346,8 @@ signin?expId=confirmEmail
 signup
 signup$
 since=
+sitemap-*.xml
+sitemap.xml
 sitemaps
 siteopt.js
 sites
@@ -3294,7 +3310,7 @@ wiki/Wikipedia_Diskussion:Checkuser
 wiki/Wikipedia_Diskussion:Spam-Blacklist-Log
 wiki/Wikipedia_talk%3AAbuse_reports
 wiki/Wikipedia_talk%3AAbuse_response
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://accounts.google.com/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://support.google.com/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_recall
 wiki/Wikipedia_talk%3AAdministrator_review
 wiki/Wikipedia_talk%3AAdministrators%27_noticeboard
