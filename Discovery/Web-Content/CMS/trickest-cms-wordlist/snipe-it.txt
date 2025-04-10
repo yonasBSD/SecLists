@@ -28,6 +28,7 @@ tests/Feature/Suppliers/Ui/IndexSuppliersTest.php
 tests/Feature/Suppliers/Ui/ShowSupplierTest.php
 tests/Feature/Suppliers/Ui/CreateSupplierTest.php
 tests/Feature/Suppliers/Ui/UpdateSupplierTest.php
+tests/Feature/Checkins/Api/LicenseCheckInTest.php
 tests/Feature/Checkins/Api/ComponentCheckinTest.php
 tests/Feature/Checkins/Api/AssetCheckinTest.php
 tests/Feature/Checkins/Api/AccessoryCheckinTest.php
@@ -38,6 +39,7 @@ tests/Feature/Checkins/Ui/AccessoryCheckinTest.php
 tests/Feature/Checkouts/Api/AssetCheckoutTest.php
 tests/Feature/Checkouts/Api/AccessoryCheckoutTest.php
 tests/Feature/Checkouts/Api/ConsumableCheckoutTest.php
+tests/Feature/Checkouts/Api/LicenseCheckOutTest.php
 tests/Feature/Checkouts/Api/ComponentCheckoutTest.php
 tests/Feature/Checkouts/Ui/AssetCheckoutTest.php
 tests/Feature/Checkouts/Ui/AccessoryCheckoutTest.php
@@ -102,6 +104,8 @@ tests/Feature/Assets/Api/AssetsForSelectListTest.php
 tests/Feature/Assets/Api/RequestableAssetTest.php
 tests/Feature/Assets/Api/StoreAssetTest.php
 tests/Feature/Assets/Api/UpdateAssetTest.php
+tests/Feature/Assets/Api/AuditAssetTest.php
+tests/Feature/Assets/Ui/DeleteAssetTest.php
 tests/Feature/Assets/Ui/ShowAssetTest.php
 tests/Feature/Assets/Ui/StoreAssetWithFullMultipleCompanySupportTest.php
 tests/Feature/Assets/Ui/AssetIndexTest.php
@@ -109,6 +113,7 @@ tests/Feature/Assets/Ui/BulkEditAssetsTest.php
 tests/Feature/Assets/Ui/BulkDeleteAssetsTest.php
 tests/Feature/Assets/Ui/CloneAssetTest.php
 tests/Feature/Assets/Ui/AssetLabelTest.php
+tests/Feature/Assets/Ui/AuditAssetTest.php
 tests/Feature/Assets/Ui/StoreAssetsTest.php
 tests/Feature/Assets/Ui/EditAssetTest.php
 tests/Feature/Licenses/Api/LicenseIndexTest.php
@@ -176,10 +181,12 @@ tests/Feature/Users/Api/UpdateUserTest.php
 tests/Feature/Users/Ui/ViewUserTest.php
 tests/Feature/Users/Ui/DeleteUserTest.php
 tests/Feature/Users/Ui/BulkActions/BulkDeleteUsersTest.php
+tests/Feature/Users/Ui/EmailAssignedToUserTest.php
 tests/Feature/Users/Ui/CreateUserTest.php
 tests/Feature/Users/Ui/UpdateUserTest.php
 tests/Feature/Users/Ui/MergeUsersTest.php
 tests/Feature/Users/Ui/IndexUsersTest.php
+tests/Feature/Users/Ui/PrintUserInventoryTest.php
 tests/Feature/Users/Ui/CloneUserTest.php
 tests/Feature/Reporting/ActivityReportTest.php
 tests/Feature/Reporting/CustomReportTest.php
@@ -6075,6 +6082,7 @@ database/migrations/2016_10_27_213251_increase_serial_field_capacity.php
 database/migrations/2024_09_17_204302_change_user_id_to_created_by.php
 database/migrations/2018_12_05_211936_add_favicon_to_settings.php
 database/migrations/2013_11_19_061409_edit_added_on_asset_logs_table.php
+database/migrations/2023_02_27_092130_add_scope_locations_setting.php
 database/migrations/2015_12_30_233509_add_timestamp_and_userId_to_custom_fields.php
 database/migrations/2013_11_25_150450_drop_parent_from_categories.php
 database/migrations/2016_09_04_180400_create_actionlog_table.php
@@ -6242,10 +6250,12 @@ database/migrations/2023_01_21_225350_add_eol_date_on_assets_table.php
 database/migrations/2014_08_17_083523_make_location_id_nullable.php
 database/migrations/2019_04_06_060145_add_user_skin_setting.php
 database/migrations/2015_07_29_230054_add_thread_id_to_asset_logs_table.php
+database/migrations/2025_04_07_145418_add_custom_fields_to_audit.php
 database/migrations/2016_06_22_160725_add_user_id_to_maintenances.php
 database/migrations/2013_11_21_024531_remove_deployable_boolean_from_status_labels.php
 database/migrations/2017_11_08_123942_labels_display_company_name.php
 database/migrations/2015_07_25_055415_remove_email_unique_constraint.php
+database/migrations/2022_02_10_110210_add_company_id_to_locations.php
 database/migrations/2014_06_24_033908_add_url_to_supplier.php
 database/migrations/2013_12_10_084038_add_eol_on_models_table.php
 database/migrations/2017_10_27_192423_migrate_denormed_asset_locations.php
@@ -6446,6 +6456,7 @@ app/Console/Commands/MergeUsersByUsername.php
 app/Console/Commands/PurgeLoginAttempts.php
 app/Console/Commands/ResetDemoSettings.php
 app/Console/Commands/RestoreDeletedUsers.php
+app/Console/Commands/FixBulkAccessoryCheckinActionLogEntries.php
 app/Console/Commands/FixupAssignedToWithoutAssignedType.php
 app/Console/Commands/RemoveExplicitEols.php
 app/Console/Commands/SendExpectedCheckinAlerts.php
@@ -6475,6 +6486,7 @@ app/Console/Commands/Purge.php
 app/Console/Commands/GeneratePersonalAccessToken.php
 app/Console/Commands/RestoreFromBackup.php
 app/Console/Commands/Version.php
+app/Console/Commands/TestLocationsFMCS.php
 app/Console/Commands/ImportLocations.php
 app/Console/Commands/CheckoutLicenseToAllUsers.php
 app/Console/Commands/LdapSync.php
