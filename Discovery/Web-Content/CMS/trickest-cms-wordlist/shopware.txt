@@ -16793,6 +16793,7 @@ changelog/_unreleased/2025-04-10-add-support-for-extended-definition-of-attribut
 changelog/_unreleased/2025-04-04-offcanvassingleton-does-not-remove-hard-coded-offcanvas-from-dom.md
 changelog/_unreleased/2025-01-07-unify-constraint-option-structure-and-checks.md
 changelog/_unreleased/2025-01-31-move-flow-execution-after-business-process.md
+changelog/_unreleased/2025-03-17-add-twig-block-around-filter-columns.md
 changelog/_unreleased/2025-04-08-fix-mobile-form-field-layouts.md
 changelog/_unreleased/2025-04-11-new-event-for-fetched-category-ids.md
 changelog/_unreleased/2025-04-04-implement-app-list-command.md
@@ -16801,6 +16802,7 @@ changelog/_unreleased/2025-03-13-preserve-administration-sidebar-state.md
 changelog/_unreleased/2025-03-28-save-file-hash-if-it-is-available.md
 changelog/_unreleased/2025-01-07-fix-gallery-thumbnail-slider.md
 changelog/_unreleased/2025-04-17-fix-dal-inherited-to-many.md
+changelog/_unreleased/2025-04-03-add-missing-js-class-to-header-search.md
 changelog/_unreleased/2024-12-19-rename-transaction-transition-action-pay-and-pay-partially.md
 changelog/_unreleased/2025-04-17-fix-webhook-dispatching-for-not-versioned-events.md
 changelog/_unreleased/2025-03-19-add-nl2br-filter-to-review-content.md
