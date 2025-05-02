@@ -19798,6 +19798,13 @@ Resources/views/Helper/page_actions.html.twig
 views/Helper/page_actions.html.twig
 Helper/page_actions.html.twig
 page_actions.html.twig
+app/bundles/CoreBundle/Resources/views/Helper/pictogram.html.twig
+bundles/CoreBundle/Resources/views/Helper/pictogram.html.twig
+CoreBundle/Resources/views/Helper/pictogram.html.twig
+Resources/views/Helper/pictogram.html.twig
+views/Helper/pictogram.html.twig
+Helper/pictogram.html.twig
+pictogram.html.twig
 app/bundles/CoreBundle/Resources/views/Helper/list_quickfilters.html.twig
 bundles/CoreBundle/Resources/views/Helper/list_quickfilters.html.twig
 CoreBundle/Resources/views/Helper/list_quickfilters.html.twig
@@ -31020,6 +31027,10 @@ README.md
 plugins/MauticCloudStorageBundle/MauticCloudStorageBundle.php
 MauticCloudStorageBundle/MauticCloudStorageBundle.php
 MauticCloudStorageBundle.php
+plugins/MauticCloudStorageBundle/Exception/InvalidCredentialConfigurationException.php
+MauticCloudStorageBundle/Exception/InvalidCredentialConfigurationException.php
+Exception/InvalidCredentialConfigurationException.php
+InvalidCredentialConfigurationException.php
 plugins/MauticCloudStorageBundle/Exception/NoFormNeededException.php
 MauticCloudStorageBundle/Exception/NoFormNeededException.php
 Exception/NoFormNeededException.php
