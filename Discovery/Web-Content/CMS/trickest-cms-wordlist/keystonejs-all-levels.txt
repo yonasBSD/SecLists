@@ -6187,6 +6187,8 @@ eager-cloths-matter.md
 add-cloudinary-meta.md
 .changeset/add-unique-filters.md
 add-unique-filters.md
+.changeset/witty-tigers-agree.md
+witty-tigers-agree.md
 .changeset/crazy-poems-cross.md
 crazy-poems-cross.md
 .changeset/new-jars-grab.md
@@ -6229,6 +6231,8 @@ structure-errors.md
 shaggy-beds-know.md
 .changeset/green-lizards-yawn.md
 green-lizards-yawn.md
+.changeset/mean-rats-invent.md
+mean-rats-invent.md
 .changeset/small-kiwis-speak.md
 small-kiwis-speak.md
 .changeset/polite-colts-desire.md

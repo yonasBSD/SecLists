@@ -1448,6 +1448,7 @@ pnpm-workspace.yaml
 .changeset/eager-cloths-matter.md
 .changeset/add-cloudinary-meta.md
 .changeset/add-unique-filters.md
+.changeset/witty-tigers-agree.md
 .changeset/crazy-poems-cross.md
 .changeset/new-jars-grab.md
 .changeset/large-animals-love.md
@@ -1469,6 +1470,7 @@ pnpm-workspace.yaml
 .changeset/structure-errors.md
 .changeset/shaggy-beds-know.md
 .changeset/green-lizards-yawn.md
+.changeset/mean-rats-invent.md
 .changeset/small-kiwis-speak.md
 .changeset/polite-colts-desire.md
 .changeset/orange-boats-act.md
